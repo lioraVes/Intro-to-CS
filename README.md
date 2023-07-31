@@ -1,2 +1,2 @@
 # Intro-to-CS
-Introduction to Computer Science Course exercises
+Introduction to Computer Science course exercises
