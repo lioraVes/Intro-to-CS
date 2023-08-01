@@ -8,7 +8,7 @@ The user has to provide :
   the directions can be:
   | letter  |       direction     | arrow |
   | ------- | ------------------- | ----- |
-  |    u    |         up         |   ↑   |
+  |    u    |         up          |   ↑   |
   |    d    |         down        |   ↓   |
   |    r    |        right        |   →   |
   |    l    |        left         |   ←   |
