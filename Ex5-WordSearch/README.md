@@ -20,3 +20,5 @@ The user has to provide :
 if the output file does not exists, the program creates one.
 the words we are looking for, doesnt have to be in english- it can be signs or hebrew too!
 ## Run example
+![image](https://github.com/lioraVes/Intro-to-CS/assets/135438143/8fde70a6-dac8-429d-a605-cb18d14d7391)
+
