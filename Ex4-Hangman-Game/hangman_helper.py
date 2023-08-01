@@ -1,5 +1,6 @@
 #######################################################################
-# This is a helper code we got for the exercise. Written by the staff.
+# This is a helper code that was provided to us for the exercise- written
+# by the course staff.
 #######################################################################
 import random
 
